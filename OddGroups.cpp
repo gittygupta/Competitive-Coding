@@ -4,7 +4,6 @@
 #include <string.h>
 #include <ctype.h>
 
-/// A program:
 /// Odd Groups Program
 int main()
 {
