@@ -1,6 +1,6 @@
 #include<stdlib.h>
 #include<stdio.h>
-
+ 
 int main()
 {
     int a, b, c, temp = 0, count = 0;
